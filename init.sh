@@ -1,7 +1,7 @@
 #!/bin/bash
 
-BSRC = "source ~/env_lxn/.bashrc"
-VMRC = "source ~/env_lxn/.vimrc"
+BSRC = "source ~/env_lnx/.bashrc"
+VMRC = "source ~/env_lnx/.vimrc"
 
 if [ -f ~/.bashrc ]
 then
